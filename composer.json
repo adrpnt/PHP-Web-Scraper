@@ -1,0 +1,6 @@
+{
+    "require": {
+        "asymptix/php-html-dom-parser": "^1.5",
+        "league/csv": "^7.1"
+    }
+}
